@@ -219,7 +219,7 @@ $stmt->close();
             <form method="POST">
                 <input type="hidden" name="receiver_id" value="<?php echo isset($friend_id) ? $friend_id : ''; ?>">
                 <div class="input-group">
-                    <input type="text" class="form-control" name="message" placeholder="Type your message..." required>
+                    <input type="text" class="form-control" name="message" placeholder="Type your message.." required>
                     <button class="btn btn-primary" type="submit">Send</button>
                 </div>
             </form>
