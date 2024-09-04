@@ -99,7 +99,7 @@
             <input type="text" class="form-control" name="username" placeholder="Username" required>
             <input type="password" class="form-control" name="password" placeholder="Password" required>
             <button type="submit" class="btn">Login</button>
-            <a href="signup.php" class="signup-link">Sign up?</a>
+            <a href="signup.html" class="signup-link">Sign up?</a>
         </form>
     </div>
 </body>
