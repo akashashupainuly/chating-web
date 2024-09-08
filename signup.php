@@ -116,7 +116,7 @@
             <input type="text" class="form-control" name="username" placeholder="Username" required>
             <input type="password" class="form-control" name="password" placeholder="Password" required>
             <input type="file" class="form-control file-input" name="profile_photo" accept="image/jpeg, image/png">
-            <button type="submit" class="btn btn-primary">Register</button>
+             <button class="button">Submit</button>
             <a href="login.php" class="signup-link">Already have an account?</a>
         </form>
     </div>
